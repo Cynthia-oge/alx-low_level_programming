@@ -3,7 +3,7 @@
  * mai - Entry point
  * Return: Always 0 (success)
  */
-init main(void)
+int main(void)
 {
 	 printf("Holberton school");
 	 return (0);
