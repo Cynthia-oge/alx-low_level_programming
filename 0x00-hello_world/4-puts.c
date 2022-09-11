@@ -1,12 +1,16 @@
 #include <stdio.h>
-/**code on using
- * put function
+/**
+ * Main - Entry point
+ * Description: 'the program's description'
+ * Return: always 0 (Success)
  */
-int main()
+
+int main(void)
 {
 	/*string initialization*/
 	char Mystr[] = "Programming is like building a multilingual puzzle\n";
+
 	puts(Mystr);
-	return 0;
+	return (0);
 }
 
